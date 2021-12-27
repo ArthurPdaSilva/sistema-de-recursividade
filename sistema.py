@@ -17,7 +17,7 @@ menu = '''
 
 print(menu)
 while(resposta != 11):
-    resposta = int(input("Escolha uma opção (ver o menu é 11): "))
+    resposta = int(input("Escolha uma opção (ver o menu é 10): "))
     if(resposta == 1 or resposta == 2):
         palavra = input("Digite uma frase: ")
         if(resposta == 1):
@@ -69,6 +69,6 @@ while(resposta != 11):
     elif(resposta == 11):
         print("Saindo do programa...")
     else:
-        print("Opção inválida, veja o menu novamente (12)!")
+        print("Opção inválida, veja o menu novamente (10)!")
 
 print("Programa finalizado")
