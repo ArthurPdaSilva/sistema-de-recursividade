@@ -1,2 +1,2 @@
 # sistema-de-recursividade
- Sistema de recursividade em python
+ Programa em python para estudar e treinar a recursividade.
